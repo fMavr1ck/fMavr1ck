@@ -1,4 +1,5 @@
-<img src="fMavr1ck\Hotz Hacker GIF - Hotz Hacker Anonymous - Discover & Share GIFs.gif" alt="GitHub Banner" width="100%" />
+<img src="fMavr1ck/Hotz Hacker GIF - Hotz Hacker Anonymous - Discover & Share GIFs.gif" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm Umer, a Cybersecurity Evangelist 👋🏼:
 🛜<br>👨🏼‍🎓Currently a Cybersecurity Student <br>👨🏼‍💻 Currently working on my pentesting skills  <br>🎬 Practicing Forensics and Malware Analysis on hacking platforms <i>*CTF PLAYER AT CTFTIME*</i>
