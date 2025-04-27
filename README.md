@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner" width="800" style="border-radius: 10px;"/>
+  <img src="banner.gif" alt="Banner" width="800" height="170" />
 </p>
 # Hello World!, I'm Umer, a Cybersecurity Evangelist 👋🏼:
 🛜<br>👨🏼‍🎓Currently a Cybersecurity Student <br>👨🏼‍💻 Currently working on my pentesting skills  <br>🎬 Practicing Forensics and Malware Analysis on hacking platforms <i>*CTF PLAYER AT CTFTIME*</i>
