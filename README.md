@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner" />
+  <img src="banner.gif" alt="Banner" width="100%" />
 </p>
 
 # Hello World!, I'm Umer, a Cybersecurity Evangelist 👋🏼:
