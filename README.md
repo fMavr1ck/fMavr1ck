@@ -8,7 +8,8 @@
   </a>
 </p>
 
-<hr style="height: 1px; background-color: white; border: none; width: 80%; margin: auto;" />
+<hr style="height: 0.5px; background-color: white; border: none; width: 80%; margin: auto;" />
+
 
 
 
