@@ -8,9 +8,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x2/FFFFFF/FFFFFF" alt="white line"/>
-</p>
+<hr style="height: 2px; background-color: white; border: none;" />
+
 
 
 🛜<br>👨🏼‍🎓Currently Cybersecurity Student <br>👨🏼‍💻 Working on my pentesting skill <br>🎬 Practicing Digital Forensics and Malware Analysis on hacking platforms </br>
