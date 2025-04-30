@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&pause=1000&color=681111&center=true&vCenter=true&width=435&lines=Hello+Maver1ck+here+" alt="Typing SVG" />
   </a>
 </p>
+<br>
 
 🛜<br>👨🏼‍🎓Currently Cybersecurity Student <br>👨🏼‍💻 Working on my pentesting skill <br>🎬 Practicing Digital Forensics and Malware Analysis on hacking platforms </br>
 <i>*CTF PLAYER AT CTFTIME*</i>
