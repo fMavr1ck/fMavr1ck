@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 - 🔭 **Currently Working On:** Digital Forensics and Malware Analysis
 - 🌱 **Currently Learning:** Vulnerability Analysis & Penetration Testing
-- 💬 **Ask Me About:** Pentesting, CTF Challenges, and Security Projects
+- 💬 **Ask Me About:** Pentesting, CTF Challenges, Digital Forensics, Malware Analysis
 - 📫 **Reach Me On:** [LinkedIn](https://linkedin.com/in/mikivirus) | [Email](mailto:mumairs3636@gmail.com)
 - ⚡ **Fun Fact:** Sometimes i play CTF's too. @d1LaWaR_404
 
