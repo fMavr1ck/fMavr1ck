@@ -18,8 +18,8 @@
 - 🔭 **Currently Working On:** Digital Forensics and Malware Analysis
 - 🌱 **Currently Learning:** Vulnerability Analysis & Penetration Testing
 - 💬 **Ask Me About:** Pentesting, CTF Challenges, Digital Forensics, Malware Analysis
-- 📫 **Reach Me On:** [LinkedIn](https://www.linkedin.com/in/umer-waqar-a584072a4/) | [Email](mailto:umerwaqar491@gmail.com)
-- 📜 **Blog:** [Medium](https://medium.com/@brownguy231256) 
+- 📫 **Reach Me On:** [LinkedIn](https://www.linkedin.com/in/umer-waqar-a584072a4/) | [Email](mailto:umerwaqar491@gmail.com) 
+- 📫 **HackTheBox:** [Hackthebox](https://app.hackthebox.com/profile/overview) 
 - ⚡ **Fun Fact:** Sometimes i play CTF's too. @d1LaWaR_404
  
 
